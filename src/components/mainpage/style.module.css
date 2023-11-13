@@ -1,0 +1,15 @@
+.text {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size:28px;
+    font-style:italic;
+    word-break: break-all;
+}
+.navbar{
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 710px;
+    position: absolute;
+    left: 500px;
+    bottom: 500px;
+}
